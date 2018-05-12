@@ -1,0 +1,36 @@
+_repo: True-Heart-Mind_38580
+_version: 0.1.0
+alternative_title: 信心铭
+contributor:
+  translator:
+    agent_name: Linnell, Bruce R.
+    gutenberg_agent_id: '39348'
+    url: http://www.gutenberg.org/2009/agents/39348
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sengcan
+    aliases:
+    - 僧璨
+    - Jianzhichanshi
+    deathdate: 606
+    gutenberg_agent_id: '39545'
+    url: http://www.gutenberg.org/2009/agents/39545
+description: ''
+gutenberg_issued: '2012-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38580'
+language:
+- en
+- zh
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Zen Buddhism'
+title: True Heart/Mind
+url: http://www.gutenberg.org/ebooks/38580
